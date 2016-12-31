@@ -4,9 +4,9 @@
 
 ## Installation
 
-1) Create a [Slack Slash Command](https://api.slack.com/slash-commands) for your team
-2) Edit `index.php` and set you token
-3) Deploy `index.php` so that it can be accessed by Slack
+1. Create a [Slack Slash Command](https://api.slack.com/slash-commands) for your team
+2. Edit `index.php` and set you token
+3. Deploy `index.php` so that it can be accessed by Slack
 
 ## Usage
 
@@ -21,3 +21,5 @@ Roll a d20
 ```
 
 Roll a dN
+
+![Screen](https://raw.githubusercontent.com/OlivierCoilland/slash-roll/master/screen.png)
